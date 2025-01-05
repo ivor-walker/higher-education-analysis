@@ -1,5 +1,5 @@
 # Introduction
-An lecturer at St Andrews teaches a ten-week intensive statistics course to university students. She is interested to know whether students who took Higher mathematics improve their performance at a different rate than those without. She has collected data from 80 students, 40 with Higher mathematics and 40 without, selected at random from the cohort from each country in last year’s class, and recorded their improvement on each assessment each week. 
+A lecturer at St Andrews teaches a ten-week intensive statistics course to university students. She is interested to know whether students who took Higher mathematics improve their performance at a different rate than those without. She has collected data from 80 students, 40 with Higher mathematics and 40 without, selected at random from the cohort from each country in last year’s class, and recorded their improvement on each assessment each week. 
 
 # Model
 After discussion, we decided to fit the following model:
